@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/devopsalwayslearn/Simple%20.NET%20Core%20pipeline/_apis/build/status/fchambon.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/devopsalwayslearn/Simple%20.NET%20Core%20pipeline/_build/latest?definitionId=16&branchName=master)
-#SimpleModif
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
